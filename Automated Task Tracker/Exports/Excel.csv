@@ -1,0 +1,5 @@
+Title,Task_Title,Description,Assignee To,DueDate,Status,mail_id,Gender,Item Type,Path
+1,Project,Your project is in-progress.,23P31A4434,12-06-2025,In-Progress,23P31A4434@acet.ac.in,Female,Item,sites/AutomatedTaskManager/Lists/Task_Trackerproject
+2,Project Status.,Your project is in-progress.,24P35A4216,11-06-2025,Complete,24P35A4216@acet.ac.in,Female,Item,sites/AutomatedTaskManager/Lists/Task_Trackerproject
+3,Project Status,Your project is completed.,23P31A4426,11-06-2025,Complete,23P31A4426@acet.ac.in,Female,Item,sites/AutomatedTaskManager/Lists/Task_Trackerproject
+4,Mini Project,Your project is in progress.,23A91A1229,12-06-2025,In-Progress,23A91A1229@aec.ac.in,Female,Item,sites/AutomatedTaskManager/Lists/Task_Trackerproject
