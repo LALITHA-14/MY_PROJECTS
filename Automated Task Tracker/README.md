@@ -29,11 +29,9 @@ The Automated Task Tracker is a low-code solution that streamlines task manageme
 
 
 
-1.Open Exports/TaskTrackerFlow-v1.zip and import into Power Automate (My Flows → Import).
+1.Open Exports/AutomatedTaskTracker.zip and import into Power Automate (My Flows → Import).
 
-2.Open Exports/TaskList.csv and create a SharePoint list (or manually create using the column names in Documentation).
-
-3.Open Reports/TaskDashboard.xlsx in Excel to view the live dashboard.
+2.Open Exports/Excel.csv and create a SharePoint list (or manually create using the column names in Documentation).
 
 
 
